@@ -3,7 +3,7 @@ import "./styles.css";
 
 class Searchbar extends React.Component {
   state = {
-    searchInput: "Search: "
+    searchInput: ""
   };
 
   //search button component
