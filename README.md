@@ -30,3 +30,6 @@ Start pages Inspiration
 - startpages.github.io
 - Reddit Startpages Subreddit
 - Check this out!
+
+Old Tutorial Screenshot Part02
+![image](https://user-images.githubusercontent.com/29686857/56750755-0dd13000-67b7-11e9-9123-e6fca921af34.png)
